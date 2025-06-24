@@ -5,3 +5,9 @@
 - routes (or equivalent)==> Inside routes folder (authRoutes & userRoutes).
 - config (or equivalent)==> DB Settings and Connections.
 - Additional files/modules==> Middleware folder ==> Protecting routes functionalities.
+  
+# Tech Stack
+- Backend: Node.js + Express.js
+- Database: MongoDB + Mongoose
+- Auth: JWT (jsonwebtoken), bcryptjs
+- Testing Tool: Postman
